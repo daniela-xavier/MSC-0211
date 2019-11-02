@@ -1,0 +1,41 @@
+Anotações
+
+
+fernando.furtado@caelum.com.br
+
+Simon Brown -> modular monolith
+
+Kafka
+
+BASE acid 
+
+
+dontpad.com/micro8586
+
+-----------------------------------
+Estrategias de decomposição
+
+
+Cors - configuração de segurança para requisições dos dominios
+	Option
+CorsConfig implements WebMvcConfigurer
+
+scream architecture
+
+-- Em modulos para gerenciar dependencias.
+-- 
+-- StrangerFigApplication
+-- flyway
+
+https://gitlab.com/snippets/1859389
+
+CDC - Chance Data Caption
+
+Debezium - Conector de banco de dados
+
+API composition
+
+
+
+
+
